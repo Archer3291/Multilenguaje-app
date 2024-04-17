@@ -1,0 +1,41 @@
+{
+  "es": {
+    "prueba1": "Esto es una prueba",
+    "prueba2": "Este texto esta en español por defecto",
+    "alert_title": "Titulo",
+    "label-name": "Nombre:",
+    "input-name": "Ingresa tu nombre",
+    "textarea": "Texto dentro de un text area",
+    "submit-button": "Enviar",
+    "button": "Cancelar",
+    "input-name-placeholder":"Escribe tu nombre"
+  },
+  "en": {
+    "prueba1": "This is a test",
+    "alert_title": "Title",
+    "label-name": "Name:",
+    "input-name": "Write your name",
+    "textarea": "Text inside textarea",
+    "submit-button": "Send",
+    "button": "Cancel",
+    "input-name-placeholder":"Write your name"
+  },
+  "fr": {
+    "prueba1": "C'est un test",
+    "alert_title": "Titre",
+    "label-name": "Nom :",
+    "input-name": "Entrez votre nom",
+    "textarea": "Texte à l'intérieur d'une zone de texte",
+    "submit-button": "Envoyer",
+    "button": "Annuler"
+  },
+  "jp": {
+    "prueba1": "これはテストです",
+    "alert_title": "タイトル",
+    "label-name": "名前：",
+    "input-name": "名前を入力してください",
+    "textarea": "テキストエリア内のテキスト",
+    "submit-button": "送信",
+    "button": "キャンセル"
+  }
+}
